@@ -41,8 +41,10 @@ Puedes acceder al gist en <a href="https://bit.ly/SDSC23sql" target="_blank" rel
 <h2>Sesión 4: “Advanced Cloud Native Spatial Analytics” con Diego Vicente</h2>
 
 <p>
-No hay prerrequisitos para este taller. <br>
-El día del evento podrás encontrar las presentación en <a href="">este link</a>.
+No hay prerrequisitos para este taller. Puedes encontrar mas información en 
+<a href="https://github.com/diego-vicente/sdsb-mad-2023">este repositorio</a>.
+<br>
+El día del evento podrás encontrar las presentación en <a href="https://docs.google.com/presentation/d/1g8rNGBMgdS_JMkUjlE2hK6pOCu9OlJOTJCFC6mqvKrM/edit#slide=id.p">este link</a>.
 </p>
 <br>
 <h2>Sesión 5: “Leverage Python for Spatial Data Science” con Miguel Alvarez</h2>
