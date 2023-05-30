@@ -1,7 +1,7 @@
 <h1>Spatial Data Science Bootcamps: MADRID 2023</h1>
 <br>
 <p>
-Bienvenido al repositorio del Spatial Data Science Bootcamp MAD23! Aquí podrás encontrar la mayoría de los materiales para los workshops. También se encuentra la versión digital del handbook del evento.
+Bienvenido al repositorio del Spatial Data Science Bootcamp MAD23! Aquí podrás encontrar la mayoría de los materiales para los workshops. También se encontrará la versión digital del handbook del evento.
  
 </p>
 <br>
