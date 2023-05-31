@@ -51,7 +51,7 @@ El día del evento podrás encontrar las presentación en <a href="https://docs.
 <p>
 
 Puedes encontrar las instrucciones de los prerrequisitos en [este documento](https://docs.google.com/document/d/1EwJHbla-tbT4LEbrZYRUfmm2JgEqcYYVD2hWmj-AA18/edit?usp=sharing)
-El día del evento podrás encontrar las presentación en <a href="">este link</a>.
+El día del evento podrás encontrar las presentación en <a href="https://drive.google.com/file/d/1NiX5lN7em2oC3CktBjXxjJueWOFqblcN/view?usp=sharing">este link</a>.
 
 </p>
 <br>
