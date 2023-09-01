@@ -30,7 +30,7 @@ El día del evento podrás encontrar las presentación en <a href="https://docs.
 </p>
 <br>
 
-<h2>Sesión 3: “Advanced Cloud Native Spatial Analytics” con Diego Vicente</h2>
+<h2>Sesión 3: “Using SQL to Scale Your Spatial Analytics” con Diego Vicente</h2>
 
 <p>
 No hay prerrequisitos para este taller. Puedes encontrar mas información en 
