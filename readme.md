@@ -52,6 +52,6 @@ El día del evento podrás encontrar las presentación en <a href="https://drive
  
 <p>
 No hay prerrequisitos para este taller. <br>
-El día del evento podrás encontrar las presentación en  <a href="https://docs.google.com/presentation/d/1TJ75638BZZSiN04MVnybDdKWIdef8lxL8Czs53YgOa0/edit?usp=sharing">este link</a> y la el paso a paso para el ejercicio en <a href="https://docs.google.com/document/d/1QPU2kPjABnNFgMMBEhGZX6FYmt2fC9KZMxv5SWduivI/edit#heading=h.at3zdv4z47n7">este link</a>.
+El día del evento podrás encontrar las presentación en  <a href="https://docs.google.com/presentation/d/15IPkymP3Fs9cbryYf4ehPoo8zL1Qx6OuXqRvewDMxxI/edit?usp=sharing">este link</a> y la el paso a paso para el ejercicio en <a href="https://docs.google.com/document/d/1QPU2kPjABnNFgMMBEhGZX6FYmt2fC9KZMxv5SWduivI/edit#heading=h.at3zdv4z47n7">este link</a>.
 </p>
 <br>
